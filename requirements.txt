@@ -1,0 +1,14 @@
+flask
+langchain_neo4j
+langchain_groq
+langchain_core
+pydantic
+typing
+langgraph
+streamlit
+ipykernel
+python-dotenv
+langchain_community
+langchain_openai
+sentence-transformers
+langchain-huggingface
